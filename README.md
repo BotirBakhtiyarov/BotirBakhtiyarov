@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 
 - **Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov/)  
 - **YouTube:** [Botir Bakhtiyarov](https://www.youtube.com/@botirbakhtiyarov)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/botirbakhtiyarov-856a83243/)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2Fa9HPjXLRuOPjpKpKA6bmg%3D%3D)  
 - **Telegram:** [@BakhtiyarovBotir](https://t.me/BakhtiyarovBotir)
 
 ## 💬 Let's Connect
