@@ -1,7 +1,3 @@
-Here's a template you can use for your GitHub `README.md`, customized with sections that reflect your background and interests. You can modify it as needed.
-
----
-
 # 👋 Hi, I'm Botir Bakhtiyarov
 
 Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I specialize in backend development, cloud computing, and web development, and I'm passionate about sharing knowledge in technology and programming.
@@ -44,9 +40,6 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 
 I'm always open to discussions about tech, cloud computing, and content creation. Feel free to reach out through any of the platforms above or via email: **botirbakhtiyarovb@gmail.com**.
 
----
-
-Let me know if you’d like to add more specific sections, like "Achievements" or "Certificates"!
 <!--
 **BotirBakhtiyarov/BotirBakhtiyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
