@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 
 - 🌍 **Location:** Kunming, China
 - 📚 **Education:** Bachelor's in Computer Science at Kunming University of Science and Technology (4th Year)
-- 💼 **Current Role:** Software Engineer at 工一(云南)数字科技有限公司, a leader in cloud computing technology
+- 💼 **Current Role:** Software Engineer at 工一(云南)数字科技有限公司.
 - 🎥 **Content Creator:** Sharing tech tutorials, vlogs, and tips on YouTube and Instagram
 - 🌐 **Languages:** Fluent in Uzbek, Chinese, and English
 
