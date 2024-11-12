@@ -12,11 +12,11 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 
 ## 💻 Tech Stack
 
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Python
 - **Web Development:** Flask, Django, HTML, CSS, JavaScript
 - **Databases:** SQLite, PostgreSQL, MySQL
 - **Cloud & Virtualization:** Docker, Docker Compose, Clonezilla, Virtual Ubuntu environments
-- **Tools:** Git, Eclipse, Visual Studio Code, Adobe Photoshop
+- **Tools:** Git, Visual Studio Code, Postman, Adobe Photoshop
 
 ## 🔧 Projects
 
