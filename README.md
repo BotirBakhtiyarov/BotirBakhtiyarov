@@ -18,20 +18,6 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 - **Cloud & Virtualization:** Docker, Docker Compose, Clonezilla, Virtual Ubuntu environments
 - **Tools:** Git, Visual Studio Code, Postman, Adobe Photoshop
 
-## 🛠 Tech Stack:
-```mermaid
-graph TD;
-    A[Backend] --> B[Python]
-    A --> C[Django]
-    A --> D[Flask]
-    B --> E[REST API]
-    A --> F[DATABASE]
-    F --> G[PostgreSQL]
-    F --> H[MySQL]
-    F --> I[SQLite]
-    J[DevOps] --> K[Docker]
-```
-
 ## 🔧 Projects
 
 ### 1. **[AutoInstaller](https://github.com/BotirBakhtiyarov/AutoInstaller_django)**  
