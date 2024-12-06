@@ -23,8 +23,8 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 ### 1. **[AutoInstaller](https://github.com/BotirBakhtiyarov/AutoInstaller_django)**  
    A Django-based platform where users can register, download, and install applications tailored to their needs, with user profiles and email verification. (In Progress)
 
-### 2. **Virtual Cloud-Based Windows Service**  
-   A Windows virtual cloud computing service that provides universities, schools, and colleges with accessible virtual desktops, complete with an app store for optimized educational use.
+### 2. **[RAG-AI](https://github.com/BotirBakhtiyarov/RAG_AI.git)**   
+   AI chatbot with knowledge base, GPT-4, and DALL-E integration for dynamic responses and image generation via Django REST API.
 
 ### 3. **YouTube Assistant**  
    Built using Streamlit and LangChain, this assistant helps users quickly find and organize content on YouTube.
