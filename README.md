@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 ### 2. **[RAG-AI](https://github.com/BotirBakhtiyarov/RAG_AI.git)**   
    AI chatbot with knowledge base, GPT-4, and DALL-E integration for dynamic responses and image generation via Django REST API.
 
-### 3. **YouTube Assistant**  
+### 3. **[YouTube Assistant](https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git)**
    Built using Streamlit and LangChain, this assistant helps users quickly find and organize content on YouTube.
 
 ## 📺 Find Me On
