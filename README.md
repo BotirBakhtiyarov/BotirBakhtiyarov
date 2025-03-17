@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
    The YouTube Assistant is a Streamlit-based application designed to provide answers to questions based on video transcripts fetched from YouTube URLs. It leverages LangChain for natural language processing tasks.
 
 ### 4. **[File Finder](https://github.com/BotirBakhtiyarov/Filefinder.git)**
-   FileFinder: AI-powered file search & chat app with OCR, embeddings, and summaries. Supports docs & images.
+   Smart File Finder & Chat Assistant is a Python-based desktop application designed to help users efficiently search, manage, and summarize documents and images. Leveraging advanced AI capabilities, including text and image embeddings, OCR (Optical Character Recognition), and natural language processing, this tool provides a seamless experience for organizing and retrieving information from files stored locally or on network drives.
 
 ## 📺 Find Me On
 
