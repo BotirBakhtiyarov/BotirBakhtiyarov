@@ -29,6 +29,9 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
 ### 3. **[YouTube Assistant](https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git)**
    The YouTube Assistant is a Streamlit-based application designed to provide answers to questions based on video transcripts fetched from YouTube URLs. It leverages LangChain for natural language processing tasks.
 
+### 4. **[File Finder](https://github.com/BotirBakhtiyarov/Filefinder.git)**
+   FileFinder: AI-powered file search & chat app with OCR, embeddings, and summaries. Supports docs & images.
+
 ## 📺 Find Me On
 
 - **Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov/)  
