@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a **Software Engineer** based in Kunming, China. I spe
    AutoInstaller is a Django-based web app for managing and installing software directly from a server. It offers a user-friendly interface, admin panel, PostgreSQL integration, and file handling for seamless application installation.
 
 ### 2. **[RAG-AI](https://github.com/BotirBakhtiyarov/RAG_AI.git)**   
-   AI chatbot with knowledge base, GPT-4, and DALL-E integration for dynamic responses and image generation via Django REST API.
+   This project is a versatile AI-powered chatbot built using Django REST Framework and LangChain, designed to provide intelligent and dynamic responses. The chatbot integrates multiple modes of interaction, enabling it to retrieve knowledge-based answers, generate conversational responses, and even create custom AI-generated images using DALL-E.
 
 ### 3. **[YouTube Assistant](https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git)**
    The YouTube Assistant is a Streamlit-based application designed to provide answers to questions based on video transcripts fetched from YouTube URLs. It leverages LangChain for natural language processing tasks.
