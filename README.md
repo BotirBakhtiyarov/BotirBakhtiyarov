@@ -114,3 +114,9 @@ I’m always open to discussions about **tech, cloud computing,** and **content 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/snake.svg" alt="Snake animation" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
