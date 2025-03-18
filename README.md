@@ -4,11 +4,6 @@
   Remove any parts you don’t want to use!
 -->
 
-<!-- Banner or Header Image (Optional) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner.png" alt="banner that says Botir Bakhtiyarov - Software Engineer, Cloud & Web Dev" />
-</p>
-
 <h1 align="center">Hi there, I'm Botir Bakhtiyarov <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
@@ -95,37 +90,6 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 
 ---
 
-## 🏆 Contribution Snake (Optional)
-
-<!-- 
-  For this to work, you need to set up a GitHub Actions workflow in your repo 
-  that generates the contribution grid snake and outputs it to /output/github-contribution-grid-snake.gif 
-  Check the instructions here: https://github.com/Platane/snk 
--->
-
-<p align="center">
-  <img src="https://github.com/BotirBakhtiyarov/BotirBakhtiyarov/blob/output/github-contribution-grid-snake.gif" alt="snake animation" />
-</p>
-
----
-
-## 🎧 Spotify Now Playing (Optional)
-
-<!-- 
-  If you want a dynamic Spotify widget, you can use a service like 
-  https://github.com/kittinan/spotify-github-profile or 
-  https://github.com/novatorem/novatorem 
-  This requires additional setup for your Spotify API credentials.
--->
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your_spotify_username">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ## 📺 Find Me On
 
 - **Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov/)  
@@ -144,24 +108,3 @@ I’m always open to discussions about **tech, cloud computing,** and **content 
 <p align="center">
   <i>Thank you for visiting my GitHub Profile. Have a great day! 🚀</i>
 </p>
-
-
----
-
-How to Use
-
-1. Create a repository named exactly BotirBakhtiyarov (your GitHub username).
-
-
-2. Place the above README.md in that repo.
-
-
-3. Commit & Push your changes.
-
-
-4. Go to your GitHub profile (e.g., github.com/BotirBakhtiyarov) and enjoy your new look!
-
-
-
-Feel free to remove any sections you don’t want or add more advanced features (like GitHub Actions for daily updates). Have fun customizing!
-
