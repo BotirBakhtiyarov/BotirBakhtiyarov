@@ -109,12 +109,6 @@ I’m always open to discussions about **tech, cloud computing,** and **content 
   <i>Thank you for visiting my GitHub Profile. Have a great day! 🚀</i>
 </p>
 
-<!-- Example: Articles or custom SVG image (Optional) -->
-<div align="center">
-  <a href="https://t.me/BakhtiyarovBotir?startapp">
-    <img src="articles.svg" width="900" height="900" alt="articles image"  />
-  </a>
-</div>
 
 <!-- Snake animation (Optional) -->
 <div align="center">
