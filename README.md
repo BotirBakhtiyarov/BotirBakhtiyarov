@@ -90,6 +90,14 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 📺 Find Me On
 
 - **Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov/)  
@@ -108,15 +116,3 @@ I’m always open to discussions about **tech, cloud computing,** and **content 
 <p align="center">
   <i>Thank you for visiting my GitHub Profile. Have a great day! 🚀</i>
 </p>
-
-
-<!-- Snake animation (Optional) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/snake.svg" alt="Snake animation" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
