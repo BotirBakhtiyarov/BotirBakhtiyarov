@@ -67,7 +67,7 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 4. **[File Finder](https://github.com/BotirBakhtiyarov/Filefinder.git)**  
    - Python desktop app for advanced file searching, OCR, text & image embeddings, etc.
   
-5. **[AI Research Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer.gitt)**  
+5. **[AI Research Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer.git)**  
    - A Django-based tool for uploading, analyzing, and summarizing research PDFs with AI content detection and real-time summaries.
 
 ---
