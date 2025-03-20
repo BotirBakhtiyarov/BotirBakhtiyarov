@@ -1,9 +1,3 @@
-<!--
-  Replace all placeholders (like YOUR_USERNAME) with your actual GitHub username or relevant info.
-  Some sections (like GitHub trophies, the Snake workflow, or Spotify widget) require extra setup.
-  Remove any parts you don’t want to use!
--->
-
 <h1 align="center">Hi there, I'm Botir Bakhtiyarov <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
@@ -72,6 +66,9 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 
 4. **[File Finder](https://github.com/BotirBakhtiyarov/Filefinder.git)**  
    - Python desktop app for advanced file searching, OCR, text & image embeddings, etc.
+  
+5. **[AI Research Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer.gitt)**  
+   - A Django-based tool for uploading, analyzing, and summarizing research PDFs with AI content detection and real-time summaries.
 
 ---
 
