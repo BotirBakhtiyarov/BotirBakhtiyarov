@@ -100,7 +100,7 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 - **Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov/)  
 - **YouTube:** [Botir Bakhtiyarov](https://www.youtube.com/@botirbakhtiyarov)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/botir-bakhtiyarov-856a83243)  
-- **Telegram:** [@BakhtiyarovBotir](https://t.me/BakhtiyarovBotir)
+- **Telegram:** [@opensource_uz](https://t.me/opensource_uz)
 
 ---
 
