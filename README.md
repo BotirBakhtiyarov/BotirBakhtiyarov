@@ -20,7 +20,7 @@
 - 🎥 **Content Creator:** Sharing tech tutorials, vlogs, and tips on YouTube and Instagram  
 - 🌐 **Languages:** Fluent in Uzbek, Chinese, and English  
 
-I specialize in **backend development**, **cloud computing**, and **web development**, with a passion for learning and sharing knowledge about all things tech.
+I specialize in **backend development**, **cloud computing**, and **AI Integrations**, with a passion for learning and sharing knowledge about all things tech.
 
 ---
 
