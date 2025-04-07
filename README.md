@@ -58,7 +58,7 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 1. **[AutoInstaller](https://github.com/BotirBakhtiyarov/AutoInstaller_django)**  
    - Django-based web app for managing & installing software from a server.
 
-2. **[CodeAnalyzer](https://github.com/BotirBakhtiyarov/code_analyzer.git)**  
+2. **[CodeAnalyzer](https://github.com/BotirBakhtiyarov/code_analyzer-b.git)**  
    - CodeAnalyzer Pro is an AI-powered static analysis solution that identifies security vulnerabilities, code smells, and performance anti-patterns in software repositories.
 
 3. **[YouTube Assistant](https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git)**  
