@@ -46,9 +46,8 @@ I specialize in **backend development**, **cloud computing**, and **AI Integrati
   <img src="https://img.shields.io/badge/Clonezilla-1182C3?style=flat&logo=clonezilla&logoColor=white" alt="Clonezilla" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/OpenAi-AI-blueviolet?logo=OpenAI&logoColor=white" alt="OpenAI" />
 </p>
-
-![DeepSeek]https://img.shields.io/badge/DeepSeek-AI-blueviolet?logo=OpenAI&logoColor=white&style=for-the-badge
 
 ---
 
