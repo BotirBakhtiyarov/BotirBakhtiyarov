@@ -73,6 +73,8 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 
 <!-- GitHub Stats (Anurag's GitHub Stats) -->
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BotirBakhtiyarov&theme=dark" />
+  <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BotirBakhtiyarov&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>&nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
@@ -83,7 +85,6 @@ Here are some of my key projects. You can pin them in your profile for quick acc
 </div>
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake.svg" />
