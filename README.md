@@ -48,7 +48,7 @@ I specialize in **backend development**, **cloud computing**, and **AI Integrati
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
-https://img.shields.io/badge/DeepSeek-AI-blueviolet?logo=OpenAI&logoColor=white&style=for-the-badge
+![DeepSeek]https://img.shields.io/badge/DeepSeek-AI-blueviolet?logo=OpenAI&logoColor=white&style=for-the-badge
 
 ---
 
