@@ -61,9 +61,9 @@
   
 | **Metric**           | **Stats**                                                                 |
 |----------------------|---------------------------------------------------------------------------|
-| Contribution Streak  | ![GitHub Streak](https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=dark) |
-| Activity Breakdown   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark) |
-| Achievement Showcase | ![Trophies](https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onedark&no-frame=true&row=1&column=7) |
+| Contribution Streak  | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=default"> <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=dark"> </picture> |
+| Activity Breakdown   | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=default"> <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark"> </picture> |
+| Achievement Showcase | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onedark&no-frame=true&row=1&column=7"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=flat&no-frame=true&row=1&column=7"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onedark&no-frame=true&row=1&column=7"> </picture>
 
 </div>
 
