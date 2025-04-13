@@ -43,6 +43,9 @@
 [![ResearchAnalyzer](https://img.shields.io/badge/📄_AI_Research_Analyzer-009688?style=flat)](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer)
 > Automated PDF analysis with AI content detection
 
+[![Data2Web](https://img.shields.io/badge/📄_Data2Web-009658?style=flat)](https://github.com/BotirBakhtiyarov/data-to-web)
+> Automatically analyze the data using AI (powered by DeepSeek)
+
 ### ☁️ Cloud & Automation
 [![AutoInstaller](https://img.shields.io/badge/🚀_AutoInstaller-FF6C37?style=flat)](https://github.com/BotirBakhtiyarov/AutoInstaller_django)
 > Enterprise software deployment system
