@@ -8,6 +8,8 @@
 [![Visits](https://komarev.com/ghpvc/?username=BotirBakhtiyarov&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/BotirBakhtiyarov)
 [![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@botirbakhtiyarov)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-bakhtiyarov-856a83243)
+[![Become a sponsor](https://img.shields.io/badge/GitHub-Sponsor-blueviolet?style=flat&logo=github)](https://github.com/sponsors/botirbakhtiyarov)
+
   
 📍 **Based in** Kunming, China | 🏢 **Working at** 工一(云南)数字科技有限公司  
 🌐 **Polyglot**: Uzbek | Chinese | English  
