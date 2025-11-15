@@ -11,7 +11,7 @@
 [![Become a sponsor](https://img.shields.io/badge/GitHub-Sponsor-blueviolet?style=flat&logo=github)](https://github.com/sponsors/botirbakhtiyarov)
 
   
-📍 **Based in** Kunming, China | 🏢 **Working at** 工一(云南)数字科技有限公司  
+📍 **Based in** Kunming, China 
 🌐 **Polyglot**: Uzbek | Chinese | English  
 💡 **Passionate About**: AI Integration • Cloud Solutions • Developer Education
   
