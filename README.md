@@ -42,8 +42,8 @@
 [![CodeAnalyzer](https://img.shields.io/badge/🔍_CodeAnalyzer-4B0082?style=flat)](https://github.com/BotirBakhtiyarov/code_analyzer-b)
 > AI-driven static analysis for security & performance optimization
 
-[![ResearchAnalyzer](https://img.shields.io/badge/📄_AI_Research_Analyzer-009688?style=flat)](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer)
-> Automated PDF analysis with AI content detection
+[![SmartExpenseBot](https://img.shields.io/badge/📄SmartExpenseBot-009688?style=flat)](https://github.com/BotirBakhtiyarov/SmartExpenseBot.git)
+> Track expenses, generate reports, set reminders - all through natural language conversations in your preferred language 
 
 [![Data2Web](https://img.shields.io/badge/📄_Data2Web-009658?style=flat)](https://github.com/BotirBakhtiyarov/data-to-web)
 > Automatically analyze the data using AI (powered by DeepSeek)
