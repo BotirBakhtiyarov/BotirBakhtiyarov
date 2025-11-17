@@ -80,6 +80,7 @@
 [![YouTube](https://img.shields.io/badge/_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@botirbakhtiyarov)
 [![Instagram](https://img.shields.io/badge/_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/botir.bakhtiyarov/)
 [![Telegram](https://img.shields.io/badge/_Dev_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opensource_uz)
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botirbakhtiyarov-856a83243)
 
 ---
 
