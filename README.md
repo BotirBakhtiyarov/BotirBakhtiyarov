@@ -1,98 +1,207 @@
-<img src="img/banner1.png" alt="GitHub Banner" style="width: 100%; object-fit: cover; border-radius: 10px; margin-bottom: 20px;"/>
+<!-- Professional Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Botir%20Bakhtiyarov&fontSize=60&fontAlignY=35&desc=CTO%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</p>
 
-<div align="center">
-  
-#  Botir Bakhtiyarov 
-### _Software Engineer • Cloud Architect • AI Explorer_
-  
-[![Visits](https://komarev.com/ghpvc/?username=BotirBakhtiyarov&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/BotirBakhtiyarov)
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@botirbakhtiyarov)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-bakhtiyarov-856a83243)
-[![Become a sponsor](https://img.shields.io/badge/GitHub-Sponsor-blueviolet?style=flat&logo=github)](https://github.com/sponsors/botirbakhtiyarov)
+<!-- Professional Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Bridging+Central+Asia+%26+China+Through+AI;Building+Enterprise-Grade+AI+Solutions;CTO+%40+Yunnan+Kaiye+Cultural+Technology" alt="Professional Tagline"/>
+</p>
 
-  
-📍 **Based in** Kunming, China 
-🌐 **Polyglot**: Uzbek | Chinese | English  
-💡 **Passionate About**: AI Integration • Cloud Solutions • Developer Education
-  
-</div>
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🔮 Core Competencies
-**Backend Development** • **Cloud Architecture** • **AI/ML Integration** • **System Automation**
-
-### 🧩 Tech Stack
-
-| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=sql\&logoColor=white)                                                                                                                                                                                            |
-| **Frameworks**        | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)                                                                                                                                                                                                |
-| **Cloud & DevOps**    | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat\&logo=docker\&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black) |
-| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)                                                                                                                                                                               |
-| **AI & LLM Tools**    | ![LangChain](https://img.shields.io/badge/LangChain-005571?style=flat\&logo=python\&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai\&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6A5ACD?style=flat) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat\&logo=ollama\&logoColor=white)                               |
-| **Messaging & Queue** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat\&logo=apache-kafka\&logoColor=white)                                                                                                                                                                                                                                                                   |
-| **Bots & Automation** | ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat\&logo=telegram\&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-5A29E4?style=flat\&logo=webhooks\&logoColor=white)                                                                                                                                                                                                                                                                |
-| **Tools & Others**    | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)                                                                                |
-
+<!-- Contact & Social Bar -->
+<p align="center">
+  <a href="mailto:hello@bbotir.xyz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/botir-bakhtiyarov-856a83243">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@botirbakhtiyarov">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+  <a href="https://t.me/opensource_uz">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BotirBakhtiyarov&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## Executive Summary
 
-### 🤖 AI-Powered Solutions
-[![CodeAnalyzer](https://img.shields.io/badge/🔍_CodeAnalyzer-4B0082?style=flat)](https://github.com/BotirBakhtiyarov/code_analyzer-b)
-> AI-driven static analysis for security & performance optimization
+> **CTO at 云南开也文化科技有限公司** specializing in AI-native application architecture, microservices, and cross-cultural tech leadership. Based in Kunming, China with roots in Tashkent, Uzbekistan.
 
-[![SmartExpenseBot](https://img.shields.io/badge/📄SmartExpenseBot-009688?style=flat)](https://github.com/BotirBakhtiyarov/SmartExpenseBot.git)
-> Track expenses, generate reports, set reminders - all through natural language conversations in your preferred language 
-
-[![Data2Web](https://img.shields.io/badge/📄_Data2Web-009658?style=flat)](https://github.com/BotirBakhtiyarov/data-to-web)
-> Automatically analyze the data using AI (powered by DeepSeek)
-
-### ☁️ Cloud & Automation
-[![AutoInstaller](https://img.shields.io/badge/🚀_AutoInstaller-FF6C37?style=flat)](https://github.com/BotirBakhtiyarov/AutoInstaller_django)
-> Enterprise software deployment system
-
-[![FileFinder](https://img.shields.io/badge/🔎_File_Finder-1572B6?style=flat)](https://github.com/BotirBakhtiyarov/Filefinder)
-> Advanced search with OCR & semantic analysis
+**Current Focus Areas:**
+- 🤖 Enterprise AI Integration (RAG, LLM Orchestration)
+- ☁️ Distributed Systems Architecture (FastAPI, RabbitMQ, Redis)
+- 🌏 Bridging Chinese & Central Asian Tech Ecosystems
+- 📝 Developer Education & Technical Content Creation
 
 ---
 
-## 📈 GitHub Analytics
+## Technical Expertise
 
-<div align="center">
-  
-| **Metric**           | **Stats**                                                                 |
-|----------------------|---------------------------------------------------------------------------|
-| Contribution Streak  | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=light"> <img src="https://streak-stats.demolab.com?user=BotirBakhtiyarov&theme=dark"> </picture> |
-| Activity Breakdown   | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BotirBakhtiyarov&show_icons=true&theme=dark&count_private=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BotirBakhtiyarov&show_icons=true&theme=default&count_private=true"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BotirBakhtiyarov&show_icons=true&theme=dark&count_private=true"> </picture>  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=default"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirBakhtiyarov&layout=compact&theme=dark"> </picture> |
-| Achievement Showcase | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onedark&no-frame=true&row=1&column=7"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onelight&no-frame=true&row=1&column=7"> <img src="https://github-profile-trophy.vercel.app/?username=BotirBakhtiyarov&theme=onedark&no-frame=true&row=1&column=7"> </picture> |
+### Core Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
-</div>
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/DeepSeek_AI-1E90FF?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek AI"/>
+  <img src="https://img.shields.io/badge/LangChain-6A5ACD?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6B35?style=for-the-badge&logo=searchengineland&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFD700?style=for-the-badge&logo=semantic-scholar&logoColor=black" alt="SentenceTransformers"/>
+  <img src="https://img.shields.io/badge/ChineseCLIP-FF4081?style=for-the-badge&logo=opencv&logoColor=white" alt="ChineseCLIP"/>
+  <img src="https://img.shields.io/badge/OCR_Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Tesseract"/>
+</p>
+
+### Infrastructure & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+</p>
 
 ---
 
-## 🌐 Digital Footprint
+## Featured Projects
 
-[![YouTube](https://img.shields.io/badge/_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@botirbakhtiyarov)
-[![Instagram](https://img.shields.io/badge/_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/botir.bakhtiyarov/)
-[![Telegram](https://img.shields.io/badge/_Dev_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opensource_uz)
-[![LinkedIn](https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botirbakhtiyarov-856a83243)
+### Enterprise AI Solutions
+
+#### 🔍 [Filefinder v2](https://github.com/BotirBakhtiyarov/Filefinder)
+**AI-Powered File Intelligence Platform**
+
+An enterprise desktop application for intelligent document management with semantic search capabilities tailored for Chinese-speaking users.
+
+**Key Features:**
+- Semantic search using ChineseCLIP & SentenceTransformers (paraphrase-multilingual-MiniLM-L12-v2)
+- OCR with Chinese language support (chi_sim) for image and PDF processing
+- Dual-mode AI Assistant: Standard Chat & RAG (Retrieval-Augmented Generation)
+- System tray integration with global Alt+Q hotkey
+- Continuous indexing for monitored directories
+- Dark/Light theme support with CustomTkinter
+
+**Tech Stack:** `Python` `CustomTkinter` `Flask` `Tesseract OCR` `ChineseCLIP` `SentenceTransformers`
+
+**Distribution:** Windows Installer available in GitHub Releases
 
 ---
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BotirBakhtiyarov/BotirBakhtiyarov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+#### 🤖 [Code-Analyzer-B](https://github.com/BotirBakhtiyarov/code_analyzer-b)
+**AI-Driven Code Quality & Security Analysis**
 
-**Let's Build the Future Together**  
-💌 Reach me at: botirbakhtiyarovb@gmail.com
+Static analysis tool leveraging AI for automated code review, security vulnerability detection, and performance optimization.
 
-</div>
+**Impact:** 19,000+ downloads as of February 2026
+
+**Capabilities:**
+- Automated security vulnerability scanning
+- Performance bottleneck identification
+- Multi-language code analysis support
+- IDE integration ready
+
+**Tech Stack:** `Python` `AI/ML` `Static Analysis` `Security Scanning`
+
+---
+
+#### 📊 [AI-Research-Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer)
+**Intelligent Document Processing System**
+
+Specialized tool for academic and enterprise research workflows with AI-powered summarization and translation.
+
+**Features:**
+- PDF analysis with AI content detection
+- Automatic Chinese translation for research papers
+- Intelligent summarization and key point extraction
+- Batch processing for document collections
+
+**Tech Stack:** `Django` `DeepSeek AI` `NLP` `PDF Processing`
+
+---
+
+### Automation & Tools
+
+#### 💬 [SmartExpenseBot](https://github.com/BotirBakhtiyarov/SmartExpenseBot)
+**Multilingual AI Financial Assistant**
+
+Telegram bot for expense tracking using natural language processing, supporting Uzbek, Chinese, and English.
+
+**Features:**
+- Conversational expense entry (no forms needed)
+- Automated monthly report generation
+- Smart reminder system for bill payments
+- Multi-currency support
+
+**Tech Stack:** `Python` `Telegram Bot API` `AI NLP` `SQLite`
+
+---
+
+## Content & Community
+
+**YouTube Channel:** [@botirbakhtiyarov](https://www.youtube.com/@botirbakhtiyarov)
+- Tech career insights in China
+- AI integration tutorials
+- Cross-cultural developer experiences
+
+**Telegram Community:** [Open Source UZ](https://t.me/opensource_uz)
+- Uzbekistan developer community
+- Open source project sharing
+- Tech industry discussions in Central Asia
+
+**Instagram:** [@botir.bakhtiyarov](https://www.instagram.com/botir.bakhtiyarov)
+- Daily developer life in China
+- Tech culture bridging
+
+---
+
+## Languages & Cultural Competencies
+
+| Language | Proficiency | Usage |
+|----------|-------------|-------|
+| **Uzbek** | Native | Primary communication, content creation for UZ community |
+| **Chinese** | HSK 5 | Professional work environment, technical documentation, daily life in China |
+| **English** | Professional | Technical documentation, international collaboration, content creation |
+
+---
+
+## Current Objectives
+
+```diff
++ 2026: Launch AI-powered Sales/Marketing automation platform for SMEs
++ Ongoing: Scale microservices architecture at current company (30-40 → 100+ employees)
++ Long-term: Establish tech bridge between Central Asia and China through AI solutions
+```
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <i>Open for consulting on AI integration, FastAPI microservices architecture, and cross-cultural tech partnerships.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:hello@bbotir.xyz">
+    <img src="https://img.shields.io/badge/Send_Email-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=667eea" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/botir-bakhtiyarov-856a83243">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sponsors/botirbakhtiyarov">
+    <img src="https://img.shields.io/badge/Sponsor_Project-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=ff69b4" alt="Sponsor"/>
+  </a>
+</p>
+
+<!-- Professional Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+</p>
