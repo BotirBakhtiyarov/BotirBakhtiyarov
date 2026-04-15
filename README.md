@@ -1,6 +1,6 @@
 <!-- Professional Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Botir%20Bakhtiyarov&fontSize=60&fontAlignY=35&desc=CTO%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Botir%20Bakhtiyarov&fontSize=60&fontAlignY=35&desc=CTO%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 <!-- Professional Tagline -->
