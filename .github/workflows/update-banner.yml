@@ -1,0 +1,41 @@
+name: Update Banner Colors
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Har 4 soatda
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate random colors
+        id: colors
+        run: |
+          # Random HEX ranglar
+          COLOR1=$(openssl rand -hex 3)
+          COLOR2=$(openssl rand -hex 3)
+          echo "c1=$COLOR1" >> $GITHUB_OUTPUT
+          echo "c2=$COLOR2" >> $GITHUB_OUTPUT
+      
+      - name: Update README
+        run: |
+          C1=${{ steps.colors.outputs.c1 }}
+          C2=${{ steps.colors.outputs.c2 }}
+          
+          # README.md dagi eski ranglarni yangi ranglar bilan almashtirish
+          sed -i "s/color=0:[a-f0-9]*/color=0:$C1/g" README.md
+          sed -i "s/,100:[a-f0-9]*/,100:$C2/g" README.md
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🎨 Update banner colors to $C1 & $C2"
+          git push
