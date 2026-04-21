@@ -1,6 +1,6 @@
 <!-- Professional Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a08c8f,100:751ef8&height=250&section=header&text=Botir%20Bakhtiyarov&fontSize=60&fontAlignY=35&desc=CTO%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:376ca8,100:7e90ec&height=250&section=header&text=Botir%20Bakhtiyarov&fontSize=60&fontAlignY=35&desc=CTO%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 <!-- Professional Tagline -->
@@ -203,5 +203,5 @@ Telegram bot for expense tracking using natural language processing, supporting 
 
 <!-- Professional Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a08c8f,100:751ef8&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:376ca8,100:7e90ec&height=120&section=footer" width="100%"/>
 </p>
