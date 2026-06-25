@@ -22,6 +22,9 @@
   <a href="https://t.me/opensource_uz">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
   </a>
+  <a href="https://github.com/sponsors/botirbakhtiyarov">
+    <img src="https://img.shields.io/badge/Sponsor-ff69b4?style=flat-square&logo=github-sponsors&logoColor=white&labelColor=ff69b4" alt="Sponsor"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=BotirBakhtiyarov&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -32,10 +35,10 @@
 > **CTO at 云南开也文化科技有限公司** specializing in AI-native application architecture, microservices, and cross-cultural tech leadership. Based in Kunming, China with roots in Tashkent, Uzbekistan.
 
 **Current Focus Areas:**
-- 🤖 Enterprise AI Integration (RAG, LLM Orchestration)
-- ☁️ Distributed Systems Architecture (FastAPI, RabbitMQ, Redis)
-- 🌏 Bridging Chinese & Central Asian Tech Ecosystems
-- 📝 Developer Education & Technical Content Creation
+- Enterprise AI Integration (RAG, LLM Orchestration)
+- Distributed Systems Architecture (FastAPI, RabbitMQ, Redis)
+- Bridging Chinese & Central Asian Tech Ecosystems
+- Developer Education & Technical Content Creation
 
 ---
 
@@ -53,7 +56,7 @@
 
 ### AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/DeepSeek_AI-1E90FF?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek AI"/>
+  <img src="https://img.shields.io/badge/DeepSeek_AI-1E90FF?style=for-the-badge&logo=probot&logoColor=white" alt="DeepSeek AI"/>
   <img src="https://img.shields.io/badge/LangChain-6A5ACD?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/RAG_Systems-FF6B35?style=for-the-badge&logo=searchengineland&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/Sentence_Transformers-FFD700?style=for-the-badge&logo=semantic-scholar&logoColor=black" alt="SentenceTransformers"/>
@@ -77,48 +80,41 @@
 
 ### Enterprise AI Solutions
 
-#### 🔍 [Filefinder v2](https://github.com/BotirBakhtiyarov/Filefinder)
+#### [Filefinder v2](https://github.com/BotirBakhtiyarov/Filefinder)
 **AI-Powered File Intelligence Platform**
 
-An enterprise desktop application for intelligent document management with semantic search capabilities tailored for Chinese-speaking users.
+Enterprise desktop application for intelligent document management with semantic search tailored for Chinese-speaking users.
 
-**Key Features:**
-- Semantic search using ChineseCLIP & SentenceTransformers (paraphrase-multilingual-MiniLM-L12-v2)
-- OCR with Chinese language support (chi_sim) for image and PDF processing
-- Dual-mode AI Assistant: Standard Chat & RAG (Retrieval-Augmented Generation)
+- Semantic search using ChineseCLIP & SentenceTransformers
+- OCR with Chinese language support for images and PDFs
+- Dual-mode AI Assistant: Standard Chat & RAG
 - System tray integration with global Alt+Q hotkey
-- Continuous indexing for monitored directories
-- Dark/Light theme support with CustomTkinter
+- Windows Installer available in GitHub Releases
 
 **Tech Stack:** `Python` `CustomTkinter` `Flask` `Tesseract OCR` `ChineseCLIP` `SentenceTransformers`
 
-**Distribution:** Windows Installer available in GitHub Releases
-
 ---
 
-#### 🤖 [Code-Analyzer-B](https://github.com/BotirBakhtiyarov/code_analyzer-b)
+#### [code_analyzer-b](https://github.com/BotirBakhtiyarov/code_analyzer-b)
 **AI-Driven Code Quality & Security Analysis**
 
-Static analysis tool leveraging AI for automated code review, security vulnerability detection, and performance optimization.
+Command-line static analysis tool for automated code review, security vulnerability detection, and performance optimization.
 
-**Impact:** 19,000+ downloads as of February 2026
-
-**Capabilities:**
 - Automated security vulnerability scanning
 - Performance bottleneck identification
 - Multi-language code analysis support
 - IDE integration ready
+- **19,000+ downloads** as of early 2026
 
 **Tech Stack:** `Python` `AI/ML` `Static Analysis` `Security Scanning`
 
 ---
 
-#### 📊 [AI-Research-Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer)
+#### [AI-Research-Analyzer](https://github.com/BotirBakhtiyarov/AI-Research-Analyzer)
 **Intelligent Document Processing System**
 
 Specialized tool for academic and enterprise research workflows with AI-powered summarization and translation.
 
-**Features:**
 - PDF analysis with AI content detection
 - Automatic Chinese translation for research papers
 - Intelligent summarization and key point extraction
@@ -130,12 +126,11 @@ Specialized tool for academic and enterprise research workflows with AI-powered 
 
 ### Automation & Tools
 
-#### 💬 [SmartExpenseBot](https://github.com/BotirBakhtiyarov/SmartExpenseBot)
+#### [SmartExpenseBot](https://github.com/BotirBakhtiyarov/SmartExpenseBot)
 **Multilingual AI Financial Assistant**
 
 Telegram bot for expense tracking using natural language processing, supporting Uzbek, Chinese, and English.
 
-**Features:**
 - Conversational expense entry (no forms needed)
 - Automated monthly report generation
 - Smart reminder system for bill payments
@@ -177,7 +172,7 @@ Telegram bot for expense tracking using natural language processing, supporting 
 
 ```diff
 + 2026: Launch AI-powered Sales/Marketing automation platform for SMEs
-+ Ongoing: Scale microservices architecture at current company (30-40 → 100+ employees)
++ Ongoing: Scale microservices architecture at current company (30-40 -> 100+ employees)
 + Long-term: Establish tech bridge between Central Asia and China through AI solutions
 ```
 
