@@ -80,7 +80,7 @@
 
 ### Enterprise AI Solutions
 
-#### [Filefinder v2](https://github.com/BotirBakhtiyarov/Filefinder)
+#### [Filefinder](https://github.com/BotirBakhtiyarov/Filefinder)
 **AI-Powered File Intelligence Platform**
 
 Enterprise desktop application for intelligent document management with semantic search tailored for Chinese-speaking users.
