@@ -83,15 +83,17 @@
 #### [Filefinder](https://github.com/BotirBakhtiyarov/Filefinder)
 **AI-Powered File Intelligence Platform**
 
-Enterprise desktop application for intelligent document management with semantic search tailored for Chinese-speaking users.
+Cross-platform desktop app that finds any document by meaning and any photo by describing what's in it — fully local, self-installing AI, zero setup for the user.
 
-- Semantic search using ChineseCLIP & SentenceTransformers
-- OCR with Chinese language support for images and PDFs
-- Dual-mode AI Assistant: Standard Chat & RAG
-- System tray integration with global Alt+Q hotkey
-- Windows Installer available in GitHub Releases
+- Semantic document search — BGE-m3 embeddings + hybrid keyword scoring
+- Image content search — describe a photo ("red car", "id card"), find it (multilingual CLIP)
+- OCR with Chinese support for images & scanned PDFs (auto-installed Tesseract + poppler)
+- Streaming RAG chat with files — DeepSeek Cloud built-in, Ollama, or custom endpoints, with collapsible thinking view
+- Freemium model: offline license keys (HMAC + device binding, monthly subscription)
+- Auto-update via GitHub Releases; system tray with global Alt+Q hotkey
+- One-command release pipeline (build → installer → GitHub Release)
 
-**Tech Stack:** `Python` `CustomTkinter` `Flask` `Tesseract OCR` `ChineseCLIP` `SentenceTransformers`
+**Tech Stack:** `Python` `Flet (Flutter)` `ONNX Runtime` `BGE-m3` `CLIP` `ChromaDB` `SQLite FTS5` `Tesseract OCR`
 
 ---
 
